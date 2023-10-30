@@ -2,3 +2,8 @@ body {
 color: white;
 background-color: darkolivegreen;
 }
+
+ul{
+    display: flex;
+    justify-content: space-between;
+}
